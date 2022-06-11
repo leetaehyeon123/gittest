@@ -1,3 +1,3 @@
 f = lambda x,y : x+y
 
-print(f(10, 50));
+print(f(10, 80));
