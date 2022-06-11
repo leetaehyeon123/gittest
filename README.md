@@ -24,4 +24,4 @@
 
 ---
 
-![loadingGIF.gif](%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8%20a32cef52e1fd46278209160423d7f99d/loadingGIF.gif)
+![fanIcon](https://user-images.githubusercontent.com/61938906/173187879-56412d7c-4c77-4060-829c-be89d43bf4e3.png)
